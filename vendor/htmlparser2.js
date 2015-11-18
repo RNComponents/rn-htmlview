@@ -306,7 +306,7 @@ Parser.prototype.onopentagname = function(name){
 			var el;
 			(el = this._stack[this._stack.length - 1]) in openImpliesClose[name];
 			this.onclosetag(el)
-		);
+		) {}
 	}
 
 	if(this._options.xmlMode || !(name in voidElements)){
@@ -2085,7 +2085,7 @@ exports.prepend = function(elem, prev){
 	if(elem.prev){
 		elem.prev.next = prev;
 	}
-	
+
 	prev.parent = parent;
 	prev.prev = elem.prev;
 	prev.next = elem;

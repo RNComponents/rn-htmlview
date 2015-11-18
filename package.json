@@ -1,6 +1,6 @@
 {
   "name": "rn-htmlview",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A fork of react-native-htmlview",
   "main": "index.js",
   "author": [{
