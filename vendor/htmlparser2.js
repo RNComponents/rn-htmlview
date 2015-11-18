@@ -457,7 +457,7 @@ Parser.prototype.onend = function(){
 			var i = this._stack.length;
 			i > 0;
 			this._cbs.onclosetag(this._stack[--i])
-		);
+		) {}
 	}
 	if(this._cbs.onend) this._cbs.onend();
 };
