@@ -1,10 +1,10 @@
 rn-htmlview
 ---
 
-> This is custom fork of [react-native-htmlview](https://github.com/jsdf/react-native-htmlview)
+> This is a custom fork of [react-native-htmlview](https://github.com/jsdf/react-native-htmlview)
 
 A component which takes HTML content and renders it as native views, with
-customisable style and handling of links, etc.
+customizable style and handling of links, etc.
 
 ### Usage
 
