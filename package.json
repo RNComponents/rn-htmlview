@@ -1,14 +1,16 @@
 {
   "name": "rn-htmlview",
   "version": "0.2.3",
-  "description": "A fork of react-native-htmlview",
+  "description": "A distribution of react-native-htmlview",
   "main": "index.js",
   "author": [{
     "name": "James Friend",
     "email": "james@jsdf.co",
     "url": "http://jsdf.co/"
   }, {
-    "name": "fantasyshao"
+    "name": "Fantasy Shao",
+    "email": "fantasyshao@icloud.com",
+    "url": "http://fantasy.codes"
   }],
   "license": "ISC",
   "keywords": [

@@ -48,3 +48,7 @@ var styles = StyleSheet.create({
   },
 })
 ```
+
+### History
+
+See [HISTORY](HISTORY.md)
