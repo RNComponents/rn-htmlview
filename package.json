@@ -1,0 +1,21 @@
+{
+  "name": "rn-htmlview",
+  "version": "0.2.1",
+  "description": "A fork of react-native-htmlview",
+  "main": "index.js",
+  "author": [{
+    "name": "James Friend",
+    "email": "james@jsdf.co",
+    "url": "http://jsdf.co/"
+  }, {
+    "name": "fantasyshao"
+  }],
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "html",
+    "react-native",
+    "react-component",
+    "react-native-component"
+  ]
+}
